@@ -35,3 +35,33 @@
             <button class="button button2">Next ❯</button>
     </body>
 </html>
+<table>
+    <th>
+        <tbody>
+            <td>
+                A
+            </td>
+        </tbody>
+    </th>
+    <th>
+        <tbody>
+            <td>
+                A
+            </td>
+        </tbody>
+    </th>
+    <th>
+        <tbody>
+            <td>
+                A
+            </td>
+        </tbody>
+    </th>
+    <th>
+        <tbody>
+            <td>
+                A
+            </td>
+        </tbody>
+    </th>
+</table>
